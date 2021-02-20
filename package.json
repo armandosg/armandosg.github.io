@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandosg/website.git"
+  },
+  "author": "Armando Serna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandosg/website/issues"
+  },
+  "homepage": "https://github.com/armandosg/website#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2"
+  }
+}
