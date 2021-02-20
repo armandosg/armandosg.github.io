@@ -4,7 +4,8 @@
   "description": "my personal website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cp -R node_modules/@fortawesome/fontawesome-free/css/all.min.css ./public/css"
   },
   "repository": {
     "type": "git",
